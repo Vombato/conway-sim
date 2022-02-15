@@ -40,7 +40,7 @@ We wanted our simulator to be run on as many platform as we could, so we tried t
 
 * **L**uca Deluigi : https://bitbucket.org/ldeluigi
 * **D**avide Evangelisti : https://bitbucket.org/DavideEva
-* **L**uca Bandini : https://bitbucket.org/Vombato
+* **L**uca Bandini : https://github.com/Vombato
 * **M**irko Fabbri : https://bitbucket.org/mirkofabbri
 
 
